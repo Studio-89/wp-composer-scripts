@@ -1,8 +1,9 @@
 {
   "name": "studio-89/wp-composer-scripts",
-  "type": "composer-plugin",
-  "license": "MIT",
   "description": "Composer script collection to support the WordPress Project Template",
+  "version": "1.0.0-dev",
+  "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Mike Madern",
